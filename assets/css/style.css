@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url("https://media.wired.com/photos/5a593a7ff11e325008172bc2/master/pass/pulsar-831502910.jpg");
+    background-size: cover;
+    
+  }
+  
+  .jumbotron h1 {
+    color: rgb(202, 60, 60);
+    text-shadow: 3px 3px #fff;
+  
+  }
+  
+  .instructions {
+    text-align: center; 
+  }
